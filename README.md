@@ -6,6 +6,8 @@ Ctrl + Shift + P -> configure user snipetts, example snippets.json
 Ctrl + Shift + P -> open keyboard shortcuts (JSON), example keybiding.json
 
 
-docs:
-docs: https://code.visualstudio.com/docs/editor/userdefinedsnippets#:~:text=To%20create%20or%20edit%20your,should%20appear%20for%20all%20languages.
+other docs:
+
+binding: https://code.visualstudio.com/docs/editor/userdefinedsnippets#:~:text=To%20create%20or%20edit%20your,should%20appear%20for%20all%20languages.
+configure a key to snippet: https://stackoverflow.com/questions/39333639/visual-studio-code-snippet-as-keyboard-shortcut-key
 
