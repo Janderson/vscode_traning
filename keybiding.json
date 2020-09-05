@@ -1,0 +1,8 @@
+[{
+    "key": "ctrl+b",
+    "command": "editor.action.insertSnippet",
+    "args": {
+        "name": "pyipdb"
+      }
+  }]
+  

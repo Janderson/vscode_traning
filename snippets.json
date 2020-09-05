@@ -1,0 +1,10 @@
+{
+	"pyipdb": {
+	 	"prefix": "ipb",
+	 	"body": [
+	 		"import ipdb; ipdb.set_trace()"
+	 	],
+	 	"description": "A Ipdb set"
+	}
+
+}
